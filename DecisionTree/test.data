@@ -1,0 +1,17 @@
+vhigh,vhigh,2,2,small,low,unacc
+vhigh,vhigh,2,2,small,med,unacc
+vhigh,med,56,4,big,med,acc
+vhigh,med,56,4,big,high,acc
+high,vhigh,3,4,med,low,unacc
+med,high,4,6,big,med,acc
+med,high,4,6,big,high,acc
+med,low,3,4,med,high,good
+med,low,3,4,big,low,unacc
+med,low,3,4,big,med,good
+med,low,3,4,big,high,vgood
+med,low,3,6,small,high,good
+med,low,3,6,med,low,unacc
+med,low,3,6,med,med,good
+med,low,3,6,med,high,vgood
+low,high,3,4,big,med,acc
+low,high,3,4,big,high,vgood
